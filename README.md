@@ -22,3 +22,24 @@ The work has been done using R and Restudio. The packages that need to be instal
 <ul> <li> sandwich  </li></ul>
 <ul> <li> patchwork  </li></ul>
 
+## Files used in Rscript
+Please see 
+
+<ul> <li> ClusterKmeanTP2.csv </li></ul>
+<ul> <li> CondensadoTP.csv   </li></ul>
+
+## SM1. Metropolitan Areas Ranked by Global Segregation Index
+Please see 
+<ul> <li>  SM1 </li></ul>
+
+## Figures 
+Please see
+
+<ul> <li> Figure 1 </li></ul>
+<ul> <li> Figure 2 </li></ul>
+<ul> <li> Figure 3 </li></ul>
+ 
+## Raw Data
+
+Please see raw data 
+<ul> <li> Ras_Data.xlsx </li></ul>
