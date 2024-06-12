@@ -1,4 +1,5 @@
-# Urban-Dynamics-in-Mexico-s-Metropolitan-Areas
+# The Interplay of Economic Complexity and Urban Sprawl in Shaping Socio-Spatial Segregation in Mexico
+
 # Appendix A. Supplementary material and data of "Urban Dynamics in Mexico’s Metropolitan Areas: Assessing the Patterns, Trends and Drivers of Socio-Spatial Segregation "
 Marco Cruz-Sandoval1,2, Gonzalo Peraza-Mues1,3, Fernando Gómez-Zaldívar3, Roberto Ponce-López1,3*
 
